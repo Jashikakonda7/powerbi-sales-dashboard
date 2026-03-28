@@ -39,6 +39,14 @@ Developed an interactive Sales Dashboard using Power BI to analyze business perf
 ![Dashboard](https://github.com/Jashikakonda7/powerbi-sales-dashboard/blob/main/Screenshot%202026-03-28%20011543.png?raw=true))
 
 ---
+## 💼 Business Impact
+- Improved understanding of sales performance across regions and categories  
+- Helped identify high-revenue products and underperforming areas  
+- Enabled data-driven decision making using visual insights
+
+  ## ⚙️ Technical Details
+- Created basic DAX measures for KPIs  
+- Used filters and slicers for interactivity  
 
 ## 🚀 Conclusion
 
